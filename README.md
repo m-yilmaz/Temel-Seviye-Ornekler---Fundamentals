@@ -3,7 +3,8 @@
 
 ### C# Programlamaya giriş için karar mekanizmalarından IF-ELSE / Switch üzerine örnekler bulunmaktadır. Örnek listeleri aşağıda listelenmiştir.
 
-![alt text](https://bit.ly/3osr1ye)
+![IFElseSwitch](https://user-images.githubusercontent.com/17917793/152648780-414b1fcd-3f2a-4541-82da-cf7b317421af.PNG)
+
 
 
 
